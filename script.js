@@ -25,4 +25,3 @@ botaoAcessibilidade.addEventListener('click', function(){
 })
 
 })
-}//falta parenteses?

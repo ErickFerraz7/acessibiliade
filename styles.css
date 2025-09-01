@@ -154,7 +154,7 @@ h2 {
     transform-origin: right center;
 }
 
-.menu-acessibilidade{
+.opcoes-acessibilidade{
     margin-top: 10px;
     display: flex;
     flex-direction: column;
