@@ -12,5 +12,6 @@ Refatoração de um site implementando recursos de acessibilidade no html,css e 
 
 -Bootstrap
 -ScrollRevealjs
+-HTML
 -CSS
 -JS
